@@ -30,7 +30,7 @@ jobs:
           repository: mccode-dev/McCode
           path: McCode
 
-dfdsfvdsf sdf dfsg     - name: Upload artifact
+    - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
         path: './statichtmltest'
