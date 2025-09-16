@@ -25,6 +25,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout this repository
+      uses: actions/checkout@v4
+      with:
+          path: src
+
     - name: Checkout main repository
       uses: actions/checkout@v4
       with:
@@ -34,7 +39,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: './statichtmltest'
+        path: './src/statichtmltest'
 
     - name: Deploy to GitHub Pages
       id: deployment
