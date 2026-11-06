@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-06",
+ "run": "https://github.com/mccode-dev/McCode/actions/runs/42175074812",
+ "columns": {
+  "mpi_x_2_classic_macos-latest_openmpi_1e6_Darwin": {
+   "tests": 703,
+   "no_test": 58,
+   "compile_err": 2,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [
+    "ESS_butterfly_MCPL_test",
+    "ESS_butterfly_MCPL_test_2"
+   ],
+   "walltime": "1:50:02",
+   "label": "mcstas-3.99.99_mpi_x_2_classic_macos-latest_openmpi_1e6_Darwin_7acf9e71fd6f"
+  },
+  "mpi_x_auto_antlr_ubuntu-latest_openmpi_1e6_Linux": {
+   "tests": 703,
+   "no_test": 58,
+   "compile_err": 2,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [
+    "ESS_butterfly_MCPL_test",
+    "ESS_butterfly_MCPL_test_2"
+   ],
+   "walltime": "2:30:28",
+   "label": "mcstas-3.99.99_mpi_x_auto_antlr_ubuntu-latest_openmpi_1e6_Linux_091e601a071d"
+  },
+  "mpi_x_auto_classic_ubuntu-24.04_openmpi_debian_1e6_Linux": {
+   "tests": 703,
+   "no_test": 58,
+   "compile_err": 2,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [
+    "ESS_butterfly_MCPL_test",
+    "ESS_butterfly_MCPL_test_2"
+   ],
+   "walltime": "1:28:14",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_ubuntu-24.04_openmpi_debian_1e6_Linux_52b4bed06e19"
+  },
+  "mpi_x_auto_classic_ubuntu-latest_openmpi_1e6_Linux": {
+   "tests": 703,
+   "no_test": 58,
+   "compile_err": 2,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [
+    "ESS_butterfly_MCPL_test",
+    "ESS_butterfly_MCPL_test_2"
+   ],
+   "walltime": "1:49:20",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_ubuntu-latest_openmpi_1e6_Linux_25da4339e169"
+  },
+  "mpi_x_auto_classic_windows-latest_msmpi_1e6_Windows": {
+   "tests": 703,
+   "no_test": 58,
+   "compile_err": 2,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [
+    "ESS_butterfly_MCPL_test",
+    "ESS_butterfly_MCPL_test_2"
+   ],
+   "walltime": "1:51:44",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_windows-latest_msmpi_1e6_Windows_aca1cfcbcfd2"
+  }
+ }
+}
