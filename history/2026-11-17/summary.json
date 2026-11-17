@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-17",
+ "run": "https://github.com/mccode-dev/McCode/actions/runs/44006289594",
+ "columns": {
+  "mpi_x_2_classic_macos-latest_openmpi_1e6_Darwin": {
+   "tests": 714,
+   "no_test": 58,
+   "compile_err": 0,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "2:05:43",
+   "label": "mcstas-3.99.99_mpi_x_2_classic_macos-latest_openmpi_1e6_Darwin_4563cf761c55"
+  },
+  "mpi_x_auto_antlr_ubuntu-latest_openmpi_1e6_Linux": {
+   "tests": 714,
+   "no_test": 58,
+   "compile_err": 0,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "1:50:20",
+   "label": "mcstas-3.99.99_mpi_x_auto_antlr_ubuntu-latest_openmpi_1e6_Linux_9a3fd5a6c354"
+  },
+  "mpi_x_auto_classic_ubuntu-24.04_openmpi_debian_1e6_Linux": {
+   "tests": 714,
+   "no_test": 58,
+   "compile_err": 0,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "1:20:33",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_ubuntu-24.04_openmpi_debian_1e6_Linux_0ff1dd4ef100"
+  },
+  "mpi_x_auto_classic_ubuntu-latest_openmpi_1e6_Linux": {
+   "tests": 714,
+   "no_test": 58,
+   "compile_err": 0,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "1:30:06",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_ubuntu-latest_openmpi_1e6_Linux_a567087136a3"
+  },
+  "mpi_x_auto_classic_windows-latest_msmpi_1e6_Windows": {
+   "tests": 714,
+   "no_test": 58,
+   "compile_err": 0,
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "2:51:23",
+   "label": "mcstas-3.99.99_mpi_x_auto_classic_windows-latest_msmpi_1e6_Windows_f8f9154da7f1"
+  }
+ }
+}
